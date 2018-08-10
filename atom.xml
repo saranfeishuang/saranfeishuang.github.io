@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>saron的小窝</title>
+  
+  <subtitle>胆小认生，不易相处</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://saranfeishuang.github.io/"/>
+  <updated>2018-08-09T15:55:00.497Z</updated>
+  <id>https://saranfeishuang.github.io/</id>
+  
+  <author>
+    <name>飒然飞霜</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>二次元图片接口</title>
+    <link href="https://saranfeishuang.github.io/zh-CN/%E4%BA%8C%E6%AC%A1%E5%85%83%E5%9B%BE%E7%89%87%E6%8E%A5%E5%8F%A3.html"/>
+    <id>https://saranfeishuang.github.io/zh-CN/二次元图片接口.html</id>
+    <published>2018-08-09T14:52:38.000Z</published>
+    <updated>2018-08-09T15:55:00.497Z</updated>
+    
+    <content type="html"><![CDATA[<p>一个由虚空创作的二次元图片接口及使用说明<br><a id="more"></a></p><h1 id="效果"><a href="#效果" class="headerlink" title="效果"></a>效果</h1><p><img src="http://void.vsirs.com/img/" alt="二次元图片接口效果"></p><h1 id="使用说明"><a href="#使用说明" class="headerlink" title="使用说明"></a>使用说明</h1><h2 id="请求地址"><a href="#请求地址" class="headerlink" title="请求地址"></a>请求地址</h2><pre><code>http://void.vsirs.com/img/</code></pre><h2 id="调用方式：HTTP-GET"><a href="#调用方式：HTTP-GET" class="headerlink" title="调用方式：HTTP GET"></a>调用方式：HTTP GET</h2><h2 id="请求参数"><a href="#请求参数" class="headerlink" title="请求参数"></a>请求参数</h2><pre><code>http://void.vsirs.com/img/?w=高度&amp;h=宽度</code></pre><h2 id="请求返回结果"><a href="#请求返回结果" class="headerlink" title="请求返回结果"></a>请求返回结果</h2><p>返回随机一张二次元图片</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;一个由虚空创作的二次元图片接口及使用说明&lt;br&gt;
+    
+    </summary>
+    
+    
+      <category term="测试" scheme="https://saranfeishuang.github.io/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+      <category term="接口" scheme="https://saranfeishuang.github.io/tags/%E6%8E%A5%E5%8F%A3/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://saranfeishuang.github.io/zh-CN/hello-world.html"/>
+    <id>https://saranfeishuang.github.io/zh-CN/hello-world.html</id>
+    <published>2017-12-31T16:00:00.000Z</published>
+    <updated>2018-08-09T15:53:55.444Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.<br><a id="more"></a></p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre><code>$ hexo &lt;span class=&quot;hljs-keyword&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;hljs-string&quot;&gt;&quot;My New Post&quot;&lt;/span&gt;`&lt;/pre&gt;</code></pre><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre><code>&lt;pre&gt;`$ hexo &lt;span class=&quot;hljs-keyword&quot;&gt;server&lt;/span&gt;`&lt;/pre&gt;</code></pre><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre><code>&lt;pre&gt;`&lt;span class=&quot;hljs-variable&quot;&gt;$ &lt;/span&gt;hexo generate`&lt;/pre&gt;</code></pre><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre><code>&lt;pre&gt;`&lt;span class=&quot;hljs-variable&quot;&gt;$ &lt;/span&gt;hexo deploy</code></pre><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;GitHub&lt;/a&gt;.&lt;br&gt;
+    
+    </summary>
+    
+    
+      <category term="测试" scheme="https://saranfeishuang.github.io/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+      <category term="随笔" scheme="https://saranfeishuang.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+</feed>
