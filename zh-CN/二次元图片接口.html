@@ -392,10 +392,6 @@ var _hmt = _hmt || [];
 
 
 
-
-
-  
-  
   <section id="comments" class="comments">
     <style>
       .comments{margin:30px;padding:10px;background:#fff}
@@ -404,18 +400,27 @@ var _hmt = _hmt || [];
     <div id="vcomment" class="comment"></div>
 <script src="//cdn.jsdelivr.net/npm/jquery@latest/dist/jquery.min.js"></script>
 <script src="//cdn.jsdelivr.net/npm/leancloud-storage@latest/dist/av-min.js"></script>
-<script src="https://myblog-1253540130.cos.ap-hongkong.myqcloud.com/js/Valine.min.js"></script>
+<script src='//cdn.jsdelivr.net/npm/valine@latest/dist/Valine.min.js'></script>
 <script>
+   var notify = 'false' == true ? true : false;
+   var verify = 'false' == true ? true : false;
    new Valine({
             av: AV,
-            el: "#vcomment",
-			smiles_url: "https://myblog-1253540130.cos.ap-hongkong.myqcloud.com/ping_lun_biao_qing",
+            el: '#vcomment',
+            notify: notify,
+            verify: verify,
             app_id: "DT5c0XSUeVvba0elwLSwcYY0-gzGzoHsz",
             app_key: "CshqlbPE9C74suXbTTXKiomf",
-            placeholder: "留下正确邮箱您可以第一时间获取评论反馈呐o(≧v≦)o",
+            placeholder: "瞎白话",
+            avatar: "",
+            avatar_cdn: "https://sdn.geekzu.org/avatar/",
+            pageSize: 15
     });
 </script>
   </section>
+
+
+
 
 
   
